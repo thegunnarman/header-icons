@@ -35,13 +35,17 @@ ul {
 li {
   display: inline-block;
   text-align: center;
-  padding: .5em 0 0;
+  padding: .4em .75em .3em;
+
 }
 
 a {
   text-decoration: none;
   color: #fff;
   font-size: 1.125rem;
+  padding: .4em 5em .3em;
+  border: 1px solid #a63f38;
+
 }
 
 .nav a:hover {
